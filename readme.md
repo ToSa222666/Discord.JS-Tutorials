@@ -13,7 +13,6 @@ module.exports = {
     aliases: ['псевдоним1', 'псевдоним2', 'псевдоним3'],
     run: async (bot, message, args) => {
     //код...
-    })
     },
 };
 ```
