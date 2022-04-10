@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "cfonts": "^2.10.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "mongoose": "^6.2.10",
+    "util": "^0.12.4"
+  }
+}
