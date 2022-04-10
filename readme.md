@@ -3,7 +3,7 @@
 
 ![discord.JS](https://i.imgur.com/LbBm5nX.jpg)
 
-# **filename.js  (command/)**
+# **filename.js  (commands)**
 
 ```js
 const { MessageEmbed } = require("discord.js");
